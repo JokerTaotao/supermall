@@ -13,7 +13,7 @@ export default {
     path: String,
     activeColor: {
       type: String,
-      default: 'ff5777'
+      default: 'red'
     }
   },
   computed: {

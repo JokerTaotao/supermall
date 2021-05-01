@@ -1,12 +1,117 @@
 <template>
   <div>
-    <h2>Profile</h2>
+    <scroll :pull-up-load="true">
+      <ul>
+        <li>hhaha1</li>
+        <li>hhaha2</li>
+        <li>hhaha3</li>
+        <li>hhaha4</li>
+        <li>hhaha5</li>
+        <li>hhaha6</li>
+        <li>hhaha7</li>
+        <li>hhaha8</li>
+        <li>hhaha9</li>
+        <li>hhaha10</li>
+        <li>hhaha11</li>
+        <li>hhaha12</li>
+        <li>hhaha13</li>
+        <li>hhaha14</li>
+        <li>hhaha15</li>
+        <li>hhaha16</li>
+        <li>hhaha17</li>
+        <li>hhaha18</li>
+        <li>hhaha19</li>
+        <li>hhaha20</li>
+        <li>hhaha21</li>
+        <li>hhaha22</li>
+        <li>hhaha23</li>
+        <li>hhaha24</li>
+        <li>hhaha25</li>
+        <li>hhaha26</li>
+        <li>hhaha27</li>
+        <li>hhaha28</li>
+        <li>hhaha29</li>
+        <li>hhaha30</li>
+        <li>hhaha31</li>
+        <li>hhaha32</li>
+        <li>hhaha33</li>
+        <li>hhaha34</li>
+        <li>hhaha35</li>
+        <li>hhaha36</li>
+        <li>hhaha37</li>
+        <li>hhaha38</li>
+        <li>hhaha39</li>
+        <li>hhaha40</li>
+        <li>hhaha41</li>
+        <li>hhaha42</li>
+        <li>hhaha43</li>
+        <li>hhaha44</li>
+        <li>hhaha45</li>
+        <li>hhaha46</li>
+        <li>hhaha47</li>
+        <li>hhaha48</li>
+        <li>hhaha49</li>
+        <li>hhaha50</li>
+        <li>hhaha51</li>
+        <li>hhaha52</li>
+        <li>hhaha53</li>
+        <li>hhaha54</li>
+        <li>hhaha55</li>
+        <li>hhaha56</li>
+        <li>hhaha57</li>
+        <li>hhaha58</li>
+        <li>hhaha59</li>
+        <li>hhaha60</li>
+        <li>hhaha61</li>
+        <li>hhaha62</li>
+        <li>hhaha63</li>
+        <li>hhaha64</li>
+        <li>hhaha65</li>
+        <li>hhaha66</li>
+        <li>hhaha67</li>
+        <li>hhaha68</li>
+        <li>hhaha69</li>
+        <li>hhaha70</li>
+        <li>hhaha71</li>
+        <li>hhaha72</li>
+        <li>hhaha73</li>
+        <li>hhaha74</li>
+        <li>hhaha75</li>
+        <li>hhaha76</li>
+        <li>hhaha77</li>
+        <li>hhaha78</li>
+        <li>hhaha79</li>
+        <li>hhaha80</li>
+        <li>hhaha81</li>
+        <li>hhaha82</li>
+        <li>hhaha83</li>
+        <li>hhaha84</li>
+        <li>hhaha85</li>
+        <li>hhaha86</li>
+        <li>hhaha87</li>
+        <li>hhaha88</li>
+        <li>hhaha89</li>
+        <li>hhaha90</li>
+        <li>hhaha91</li>
+        <li>hhaha92</li>
+        <li>hhaha93</li>
+        <li>hhaha94</li>
+        <li>hhaha95</li>
+        <li>hhaha96</li>
+        <li>hhaha97</li>
+        <li>hhaha98</li>
+        <li>hhaha99</li>
+        <li>hhaha100</li>
+      </ul>
+    </scroll>
   </div>
 </template>
 
 <script>
+import Scroll from "../../components/common/scroll/Scroll";
 export default {
-  name: "Profile"
+  name: "Profile",
+  components: {Scroll}
 }
 </script>
 
